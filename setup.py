@@ -8,7 +8,7 @@ setup(
     description='A brief description of your project',  # 项目描述  
     long_description=open('README.md').read(),  # 项目详细描述，通常从 README 文件读取  
     long_description_content_type='text/markdown',  # 描述内容类型  
-    url='https://github.com/your-username/your-repository',  # 项目主页  
+    url='https://github.com/52013141240/unet',  # 项目主页  
     packages=find_packages(),  # 自动查找项目中的包  
     classifiers=[  # 分类器，帮助用户找到你的项目  
         'Programming Language :: Python :: 3',  
